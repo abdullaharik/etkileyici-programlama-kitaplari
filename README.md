@@ -28,34 +28,34 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 
 ## Etkileyici Kitaplar Listesi
 
-1. [Code Complete (2nd edition)](http://cc2e.com/) - Steve McConnell
-2. [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer) - Andrew Hunt ve David Thomas
+1. [Code Complete (2nd edition)](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) - Steve McConnell
+2. [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Andrew Hunt ve David Thomas
 3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) - Sussman ve Abelson (ücretsiz e-kitap)
-4. [C Programlama Dili](http://www.kitapyurdu.com/kitap/default.asp?id=630879) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
-5. [Algoritmalara Giriş](http://www.dr.com.tr/Kitap/Algoritmalara-Giris/Charles-E-Leiserson/Ders-Sinav-Kitaplari/Universite-Ders-Kitaplari/Matematik/urunno=0000000725327) - Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald L. Rivest
-6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) - the Gang of Four
+4. [C Programlama Dili](https://www.amazon.com.tr/Programlama-Dili-Brian-W-Kernighan/dp/6054220578) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
+5. [Algoritmalara Giriş](https://www.amazon.com.tr/Algoritmalara-Giri%C5%9F-Thomas-H-Cormen/dp/6053556491) - Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald L. Rivest
+6. [Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) - the Gang of Four
 7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) - Martin Fowler
 8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) - Fred Brooks
-9. [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - Donald Knuth
+9. [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) - Donald Knuth
 10. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) - Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
-11. [Gödel, Escher, Bach - Bir Ebedi Gökçe Belik (Lewis Carroll'ın İzinde Zihinlere ve Makinelere Dair Metaforik Bir Füg)](http://www.idefix.com/kitap/godel-escher-bach-bir-ebedi-gokce-belik-douglas-r-hofstadter/tanim.asp?sid=SKTC3J8QHE3E6J3S7C1K) - Douglas Hofstadter - Pinhan Yayıncılık
+11. [Gödel, Escher, Bach - Bir Ebedi Gökçe Belik (Lewis Carroll'ın İzinde Zihinlere ve Makinelere Dair Metaforik Bir Füg)](https://www.amazon.com.tr/G%C3%96DEL-ESCHER-BACH-Kolektif/dp/6058795303) - Douglas Hofstadter - Pinhan Yayıncılık
 12. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Robert C. Martin
 13. [Effective C++](http://www.aristeia.com/books.html) - Scott Meyers
 14. [More Effective C++](http://www.aristeia.com/books.html) - Scott Meyers
 15. [CODE](http://www.charlespetzold.com/code/) - Charles Petzold
-16. [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) - Jon Bentley
+16. [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - Jon Bentley
 17. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) - Michael C. Feathers
 18. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) - Demarco ve Lister
 19. [Coders at Work](http://www.codersatwork.com/) - Peter Seibel
 20. [Eminim Şaka Yapıyorsunuz Bay Feynman - Meraklı Bir Şahsiyetin Maceraları](http://www.kitapyurdu.com/kitap/default.asp?id=638286) - Richard Feynman - Alfa Yayınları
-21. [Effective Java 2nd edition](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) - Joshua Bloch
+21. [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch-dp-0134685997/dp/0134685997) - Joshua Bloch
 22. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) - Martin Fowler
-23. [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/) - Matthias Felleisen ve Daniel P. Friedman
-24. [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/) - Matthias Felleisen ve Daniel P. Friedman
+23. [The Little Schemer](https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992) - Matthias Felleisen ve Daniel P. Friedman
+24. [The Seasoned Schemer](https://www.amazon.com/Seasoned-Schemer-MIT-Press/dp/026256100X) - Matthias Felleisen ve Daniel P. Friedman
 25. [Why's (Poignant) Guide to Ruby](http://poignant.guide/) - why the lucky stiff (ücretsiz PDF)
 26. [The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140) - Alan Cooper
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) - Eric S. Raymond
-28. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) - Kent Beck (ücretsiz PDF)
+28. [Test-Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) - Kent Beck
 29. [Practices of an Agile Developer](http://pragprog.com/book/pad/practices-of-an-agile-developer) - Venkat Subramaniam and Andy Hunt
 30. [Kullanışlı Web Siteleri Yaratma: Web Kullanılabilirliğine Sağduyulu Bir Yaklaşım](http://www.sensible.com/dmmt.html) [2](http://www.kitapyurdu.com/kitap/kullanisli-web-siteleri-yaratma/89507.html) - Steve Krug
 31. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) - Robert C. Martin
