@@ -135,6 +135,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 106. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.tr/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - Robert C. Martin
 107. [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X) - Robert C. Martin
 108. [CSharp In Depth](https://www.amazon.com.tr/C-Depth-4E-Jon-Skeet/dp/1617294535) - Jon Skeet
+109. [Zor Yoldan Haskell PDF](https://github.com/tugkan0153/zor-yoldan-haskell) - Yann Esposito, PDF: Tuğkan-0153
 
 ## Lisans
 
