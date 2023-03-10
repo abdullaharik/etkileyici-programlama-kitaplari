@@ -103,7 +103,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 78. [The Career Programmer: Guerilla Tactics for an Imperfect World](http://www.christopherduncan.com/thecareerprogrammer.aspx) - Christopher Duncan
 79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) - Peter Norvig (ücretsiz e-kitap)
 80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) - David Kushner
-81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) - Andy Hunt ve Dave Thomas
+81. [Pragmatic Unit Testing in C# with NUnit](https://pragprog.com/titles/utc2/pragmatic-unit-testing-in-c-with-nunit-2nd-edition/) - Andy Hunt ve Dave Thomas
 82. [Nasıl Çözmeli / Matematiksel Yönteme Yeni Bir Bakış](https://www.kitapyurdu.com/kitap/nasil-cozmeli--matematiksel-yonteme-yeni-bir-bakis/467941.html) - George Polya - Sistem Yayıncılık'tan çıkan sürümünün yeni baskısı artık yok, sadece üniversite kütüphanelerinde ve çevrimiçi sahaf sitelerinde bulunuyor. 2018'de Tübitak Yayınları'ndan yeni bir baskısı çıktı.
 83. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) - Adele Goldberg 
 84. [Writing Secure Code (2nd Edition)](http://www.microsoft.com/learning/en-us/book.aspx?ID=5957) - Michael Howard
