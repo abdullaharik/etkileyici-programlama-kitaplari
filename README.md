@@ -1,16 +1,11 @@
 # Programcılar için en etkileyici kitaplar
 
-Burada, Stack Overflow'daki [Her Programcının Okuması Gereken En Etkili Tek Kitap](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) konusunda bahsi geçen kitapların Türkçe için yerelleştirilmiş bir listesi yer almaktadır. Asıl çalışma için [influential-programming-books](https://github.com/chhantyal/influential-programming-books) projesine bakabilirsiniz.
-
-
-## Neden Github'da böyle bir proje?
-
-Sık sık yukarıdaki listenin olduğu sayfayı ziyaret ediyordum. Zamanla böyle aktif bir konu kapatıldı, kitap listelerine verilen bağlantılar silindi ve her seferinde kopyalama/yapıştırma/arama yapmak zorunda kaldım. Korkarım listeyi tamamen de kaldırabilirler. Bu yüzden listeyi burada koruyorum :)
+Burada, Stack Overflow'daki [Her Programcının Okuması Gereken En Etkili Tek Kitap](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) konusunda bahsi geçen kitapların Türkçe için yerelleştirilmiş bir listesi yer almaktadır. Asıl çalışma için [influential-programming-books](https://github.com/cs-books/influential-cs-books) projesine bakabilirsiniz.
 
 
 ## Katkıda bulunun ❤ ❤
 
-Etkileyici olan bütün kitaplar listeye eklenebilir, pek de etkileyici olmadığı görülen kitaplar da listeden kaldırılabilir. Bağlantı olarak kitabı almak isteyecek kişilerin hem kitabı kolayca satın alabilecekleri hem de kitap hakkında bilgi alabilecekleri bir site kullanmaya çalışıyorum. Eğer kitap henüz Türkçeye çevrilmemişse asıl projedeki bağlantıları bırakıyorum, bu da ya kitabın orijinal sitesi ya kitap ücretsizce internet üzerinden okunabilecek bir bağlantısı ya da kitabın Amazon.com sayfası oluyor.
+Etkileyici olan bütün kitaplar listeye eklenebilir, pek de etkileyici olmadığı görülen kitaplar da listeden kaldırılabilir. Bağlantı olarak kitabı almak isteyecek kişilerin hem kitabı kolayca satın alabilecekleri hem de kitap hakkında bilgi bulabilecekleri bir site kullanmaya çalışıyorum. Eğer kitap henüz Türkçeye çevrilmemişse asıl projedeki bağlantıları bırakıyorum, bu da ya kitabın orijinal sitesi ya kitap ücretsizce internet üzerinden okunabilecek bir bağlantısı ya da kitabın Amazon.com sayfası oluyor.
 
 Gözümden kaçan Türkçe kitapların listeye eklenmesini sağlayabilirsiniz, listeye kitap eklenmesi veya listeden kitap çıkarılması önerilerinde bulunabilirsiniz, lisansı izin veren kitapları Türkçeye çevirebilirsiniz, yayınevlerinin listedeki birkaç kitabı daha çevirmesi için faaliyetlerde bulunabilirsiniz...
 
@@ -136,6 +131,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 107. [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics/dp/013691571X) - Robert C. Martin
 108. [CSharp In Depth](https://www.amazon.com.tr/C-Depth-4E-Jon-Skeet/dp/1617294535) - Jon Skeet
 109. [Zor Yoldan Haskell PDF](https://github.com/tugkan0153/zor-yoldan-haskell) - Yann Esposito, PDF: Tuğkan-0153
+
 
 ## Lisans
 
