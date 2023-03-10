@@ -59,7 +59,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 29. [Practices of an Agile Developer](http://pragprog.com/book/pad/practices-of-an-agile-developer) - Venkat Subramaniam and Andy Hunt
 30. [Kullanışlı Web Siteleri Yaratma: Web Kullanılabilirliğine Sağduyulu Bir Yaklaşım](http://www.sensible.com/dmmt.html) [2](http://www.kitapyurdu.com/kitap/kullanisli-web-siteleri-yaratma/89507.html) - Steve Krug
 31. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) - Robert C. Martin
-32. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) - Eric Evans
+32. [Domain Driven Design](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) - Eric Evans
 33. [Gündelik Şeylerin Tasarımı](https://www.kitapyurdu.com/kitap/gundelik-seylerin-tasarimi/467078.html) - Donald Norman
 34. [Modern C++ Design](http://erdani.com/index.php/books/modern-c-design/) - Andrei Alexandrescu
 35. [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) - Joel Spolsky
