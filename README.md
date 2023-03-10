@@ -74,7 +74,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 44. [Getting Real](https://gettingreal.37signals.com/) - 37 Signals (ücretsiz PDF)
 45. [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) - Karl Seguin (ücretsiz PDF)
 46. [Computer Graphics: Principles and Practice in C (2nd Edition)](http://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0201848406) - Foley, Dam, Feiner, Hughes
-47. [Thinking in Java](http://www.mindviewinc.com/Books/TIJ4/) - Bruce Eckel
+47. [Thinking in Java](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486) - Bruce Eckel
 48. [The Elements of Computing Systems](http://www.nand2tetris.org/) - Noam Nisan ve Shimon Schocken(ücretsiz e-kitap)
 49. [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/) - Joshua Kerievsky
 50. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) - Andrew S. Tanenbaum
