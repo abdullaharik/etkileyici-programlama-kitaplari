@@ -25,7 +25,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 
 1. [Code Complete (2nd edition)](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) - Steve McConnell
 2. [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Andrew Hunt ve David Thomas
-3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) - Sussman ve Abelson (ücretsiz e-kitap)
+3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp) - Harold Abelson, Gerald Jay Sussman, Julie Sussman ([PDF](https://web.mit.edu/6.001/6.037/sicp.pdf))
 4. [C Programlama Dili](https://www.amazon.com.tr/Programlama-Dili-Brian-W-Kernighan/dp/6054220578) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
 5. [Algoritmalara Giriş](https://www.amazon.com.tr/Algoritmalara-Giri%C5%9F-Thomas-H-Cormen/dp/6053556491) - Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald L. Rivest
 6. [Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) - the Gang of Four
