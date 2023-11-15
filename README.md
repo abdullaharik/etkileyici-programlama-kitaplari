@@ -28,7 +28,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp) - Harold Abelson, Gerald Jay Sussman, Julie Sussman ([PDF](https://web.mit.edu/6.001/6.037/sicp.pdf))
 4. [C Programlama Dili](https://www.amazon.com.tr/Programlama-Dili-Brian-W-Kernighan/dp/6054220578) - Brian Kernighan ve Dennis Ritchie - DaisyScience Int. Pub. - Kitap daha önce de [Sistem Yayıncılık](http://www.kitapyurdu.com/kitap/default.asp?id=77612)'tan çıkmıştı ama bu baskının sıfırını bulmak artık kolay değil sanırım.
 5. [Algoritmalara Giriş](https://www.amazon.com.tr/Algoritmalara-Giri%C5%9F-Thomas-H-Cormen/dp/6053556491) - Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald L. Rivest
-6. [Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) - the Gang of Four
+6. [Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) - the Gang of Four (Konuyla ilgili kaynak: [Tasarım Desenleri Türkçe Kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak))
 7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) - Martin Fowler
 8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) - Fred Brooks
 9. [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) - Donald Knuth
