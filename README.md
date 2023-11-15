@@ -58,7 +58,7 @@ Bu listenin çeşitlilik göstereceğini ve geniş bir yelpazede konuyu kapsayac
 33. [Gündelik Şeylerin Tasarımı](https://www.kitapyurdu.com/kitap/gundelik-seylerin-tasarimi/467078.html) - Donald Norman
 34. [Modern C++ Design](http://erdani.com/index.php/books/modern-c-design/) - Andrei Alexandrescu
 35. [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) - Joel Spolsky
-36. [The Practice of Programming](http://cm.bell-labs.com/cm/cs/tpop/) - Kernighan and Pike
+36. [The Practice of Programming](https://www.cs.princeton.edu/~bwk/tpop.webpage/) - Brian W. Kernighan, Rob Pike
 37. [Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/press_releases/pragmatic-thinking-and-learning-refactor-your-wetware) - Andy Hunt
 38. [Software Estimation: Demystifying the Black Art](http://www.stevemcconnell.com/est.htm) - Steve McConnel
 39. [The Passionate Programmer](http://pragprog.com/book/cfcar2/the-passionate-programmer) - Chad Fowler
